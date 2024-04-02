@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @artgamer2009
-- 👀 I’m interested in Raspberry Pis
-- 🌱 I’m currently learning Nothing.
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: Dont.
+Hey, Art here.
+Part of the nebula design team
+Don't know coding that much
+Thats it lmao
 
 <!---
 artgamer2009/artgamer2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
